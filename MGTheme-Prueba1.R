@@ -29,3 +29,5 @@ servir como indicativo"),
                              l = 0.8,  # Margen izquierdo
                              unit = "cm"),
         axis.title.y = element_text(size = 13, vjust = 4))
+
+
